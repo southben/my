@@ -7,7 +7,7 @@ spring:
     
 programmer:
   age: 20
-  name: 伟大的土豆
+  name: 伟大的油条
   married: false
   hireDate: 2018/12/23
   salary: 66666.88
