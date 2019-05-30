@@ -13,7 +13,7 @@ public class SplitStringHash {
 	      rule.setHashSlice("0:2");
 	    idVal = "0";
 	    System.out.println(0 == rule.calculate(idVal));
-//	    idVal = "45a";
+	    idVal = "45a";
 //	    Assert.assertEquals(true, 1 == rule.calculate(idVal));
 
 	}
