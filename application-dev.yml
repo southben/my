@@ -7,7 +7,7 @@ spring:
     
 programmer:
   age: 20
-  name: 伟大的公鸡
+  name: 走在街上棒砸头
   married: false
   hireDate: 2018/12/23
   salary: 66666.88
